@@ -29,7 +29,7 @@ Olá, eu me chamo Saulo Oliveira, sou desenvolvedor de software e adoro comparti
   <a href="https://www.typescriptlang.org/">
     <img height="25em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
-  <a href="https://www.microsoft.com/pt-br/microsoft-365/sharepoint/collaboration/">
+  <a href="https://dotnet.microsoft.com/pt-br/learn/csharp/">
     <img height="25em" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </a>
   <a href="https://www.microsoft.com/pt-br/sql-server/">
