@@ -10,7 +10,7 @@ Olá, eu me chamo Saulo Oliveira, sou desenvolvedor de software e adoro comparti
 
 - Gosto de jogar tênis, basquete, ping pong dentre outros esportes.
 - Gosto de andar de bicicleta, patinete ou só caminhar na praia.
-- Meu filme preferido é Senhor do Anéis e a série Dark com certeza.
+- Meu filme preferido é Senhor do Anéis e a série... Dark com certeza.
 - Também gosto de video games, mas atualmente não tenho tido tempo.
 - Adoro aprender novas tecnologias.
 
