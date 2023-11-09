@@ -12,7 +12,7 @@ Olá, eu me chamo Saulo Oliveira, sou desenvolvedor de software e adoro comparti
 - Gosto de andar de bicicleta, patinete ou só caminhar na praia.
 - Meu filme preferido é Senhor do Anéis e a série Dark com certeza.
 - Também gosto de video games, mas atualmente não tenho tido tempo.
-- Adoro aprender novas coisas tecnologias.
+- Adoro aprender novas tecnologias.
 
 ## 📋 Habilidades
 
@@ -39,6 +39,13 @@ Olá, eu me chamo Saulo Oliveira, sou desenvolvedor de software e adoro comparti
     <img height="25em" alt="SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
   </a>
 </div>
+
+<br/>
+
+## 🚀 Meus cursos
+
+- <a href="https://www.udemy.com/course/aprenda-sharepoint-do-zero-com-foco-no-negocio/?referralCode=34B700C89A7463BD0A00">Aprenda SharePoint, Power Apps e Automate do zero</a>
+- <a href="https://www.udemy.com/course/desenvolvendo-para-sharepoint-com-spfx/?referralCode=26879FEB3B350B408792">Desenvolvendo para SharePoint com SPFx</a>
 
 <br/>
 
